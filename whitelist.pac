@@ -50,6 +50,10 @@ var PROXY_METHOD = PROXY_TYPE + ' ' + IP_ADDRESS;
     // custom list. feel free to add.
     // mostly ad servers and img servers
 var RULES = [
+    [
+        "www.speedtest.net",
+        ".dapenti.com"
+    ],
     //cn
     [
         ".cn"
