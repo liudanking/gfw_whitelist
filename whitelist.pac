@@ -50,9 +50,11 @@ var PROXY_METHOD = PROXY_TYPE + ' ' + IP_ADDRESS;
     // custom list. feel free to add.
     // mostly ad servers and img servers
 var RULES = [
+    // liudanking list
     [
         "www.speedtest.net",
-        ".dapenti.com"
+        ".dapenti.com",
+        ".github.com"
     ],
     //cn
     [
